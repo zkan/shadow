@@ -1,0 +1,4 @@
+shadow
+======
+
+Shadow detection methods
